@@ -38,12 +38,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "ef5f631a3704451da24c502d96b9984adf1e90c8",
     "author": "Mateo_DVE",
     "commit": {
       "date": "2025-08-21T13:13:46.000Z",
       "message": "fix: errores del saludo con nombre",
-      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/HEAD"
+      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/ef5f631a3704451da24c502d96b9984adf1e90c8"
     },
     "stats": {
       "total": 10,
@@ -55,5 +55,24 @@
     "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo_DVE",
+    "commit": {
+      "date": "2025-08-21T13:30:27.000Z",
+      "message": "fix: Errores de saludo con nombre",
+      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 28,
+      "additions": 10,
+      "deletions": 18,
+      "date": "2025-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]

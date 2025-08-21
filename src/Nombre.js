@@ -1,8 +1,4 @@
-
-function saludar(nombre) {
-  if (!nombre || nombre.trim() === "") {
-    return "Hola, por favor escribe tu nombre.";
-  }
-  return `Hola, ${nombre}`;
+function nombre(a) {
+  return "Hola, " + a; 
 }
-export default saludar;
+export default nombre;

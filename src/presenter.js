@@ -1,5 +1,4 @@
-
-import nombre from "./Nombre";
+import nombre from "./Nombre.js";
 
 const nombreInput = document.querySelector("#nombre-input");
 const enviarButton = document.querySelector("#enviar-button");
