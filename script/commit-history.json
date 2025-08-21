@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "b5cd20fbafef5e55d79831b6128c47c1e850359a",
     "author": "Mateo_DVE",
     "commit": {
       "date": "2025-08-21T12:33:44.000Z",
       "message": "Feat: Saludo",
-      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/HEAD"
+      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/b5cd20fbafef5e55d79831b6128c47c1e850359a"
     },
     "stats": {
       "total": 14,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo_DVE",
+    "commit": {
+      "date": "2025-08-21T13:09:44.000Z",
+      "message": "feat: Saludo con nombre",
+      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 57,
+      "additions": 30,
+      "deletions": 27,
+      "date": "2025-08-21"
+    },
+    "coverage": 66.67,
+    "test_count": 1,
+    "failed_tests": 1,
+    "conclusion": "failure"
   }
 ]
