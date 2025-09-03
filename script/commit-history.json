@@ -76,12 +76,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "7d398010d0c24343d8fdb0ec763dca0beb06b2ab",
     "author": "Mateo_DVE",
     "commit": {
       "date": "2025-08-21T13:37:31.000Z",
       "message": "Fix: Errores del Saludo",
-      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/HEAD"
+      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/7d398010d0c24343d8fdb0ec763dca0beb06b2ab"
     },
     "stats": {
       "total": 2,
@@ -93,5 +93,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Mateo_DVE",
+    "commit": {
+      "date": "2025-09-03T02:57:49.000Z",
+      "message": "saludo por hora,edad,genero",
+      "url": "https://github.com/MateoDVE/IngSoft-chatbot/commit/HEAD"
+    },
+    "stats": {
+      "total": 110,
+      "additions": 100,
+      "deletions": 10,
+      "date": "2025-09-03"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
