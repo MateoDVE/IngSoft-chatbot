@@ -5,22 +5,28 @@
     <title>ChatBot</title>
   </head>
   <body>
-    <h1>ChatBot</h1>
+    <label for="lang">Language / Idioma</label>
+    <select id="lang">
+      <option value="es" selected>Español</option>
+      <option value="en">English</option>
+    </select>
     <h2>Hola</h2>
     ¿Cuál es tu nombre?
     <input type="text" id="nombre-input" />
+
     <label>Género</label>
     <select id="genero">
       <option value="">Seleccionar género</option>
       <option value="masculino">Masculino</option>
-      <option value="femenino">Femenino</option> 
+      <option value="femenino">Femenino</option>
     </select>
+
     <label>Edad</label>
-    <input type="number" id="edad"/>
+    <input type="number" id="edad" />
+
     <button id="enviar">Enviar</button>
     <div id="respuesta-div"></div>
 
-    <!-- Asegúrate que esta ruta exista -->
     <script type="module" src="./src/presenter.js"></script>
   </body>
 </html>
